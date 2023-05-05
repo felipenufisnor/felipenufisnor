@@ -1,24 +1,8 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**felipenufisnor/felipenufisnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hello 👋
 I'm Felipe Martins and this is my GitHub profile. I do my best to share what I'm learning and maintain well-documented repositories. Hope you find something useful here! 😄
 
-💻 Data Scientist / Data Analyst
-🏢 Currently working GDF
-🌎 Headquartered in Brasilia, Federal District, Brazil
+💻 Data Scientist / Data Analyst <br /> 
+🏢 Currently working at GDF <br />
+🌎 Headquartered in Brasilia, Federal District, Brazil <br />
 👩‍💻 More about me:  [LinkedIn](https://www.linkedin.com/in/felipe-martins-84226362/) /  [Medium](https://medium.com/me/stories/public)
