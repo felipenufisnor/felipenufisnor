@@ -4,7 +4,7 @@ I'm Felipe Martins and this is my GitHub profile. I do my best to share what I'm
 
 💻 Data Scientist | Data Analyst <br />
 🔭 MSc Engineering | BSc Computer Science <br />
-🏢 Currently working for GDF <br />
+🏢 Currently working for Federal District Government <br />
 🌎 Based in Brasilia, Brazil <br />
 👩‍💻 More about me: [LinkedIn](https://www.linkedin.com/in/felipe-martins-84226362/) | [Medium](https://medium.com/@felipenufisnor) <br />
 📫 E-mail: felipenmartins@msn.com
